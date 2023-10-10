@@ -1,2 +1,2 @@
 # se-lab
-Egy tetszőleges leírás
+BME-Szoftvertechnológia tárgy 2023
